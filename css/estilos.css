@@ -23,3 +23,8 @@
         color:blue;
         font-weight: 100;
     }
+
+body {
+    background-image: url("pngtree-colorful-watercolor-rainbow-background-picture-image_985725.jpg");
+    background-size: cover;
+}
